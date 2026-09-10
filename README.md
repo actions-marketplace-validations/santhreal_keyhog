@@ -965,6 +965,7 @@ lists every command, flag, generated default, and exit status. Use
 KeyHog stands on prior secret-scanning work. Ideas borrowed from:
 
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog): detector breadth and verification semantics
+- [Kingfisher](https://github.com/mongodb/kingfisher) (Apache-2.0, Copyright 2025-2026 MongoDB, Inc.): several detector patterns and their test fixtures derive from Kingfisher's published rules, and the home-turf benchmark corpus is harvested from Kingfisher's rule examples (see `benchmarks/THIRD_PARTY_NOTICES.md`)
 - [Betterleaks](https://github.com/betterleaks/betterleaks): token-efficiency and false-positive suppression
 - **Titus:** scanning ergonomics and severity calibration
 

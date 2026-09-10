@@ -10,10 +10,10 @@ Notices for bundled components
 ================================================================================
 
 This product includes detectors, signatures, and regex contributions from
-the public-domain secret-scanning community. Wherever a detector specifies an
-upstream reference (a CVE ID, a vendor advisory, or a public POC URL) in its
-TOML manifest, that reference is the canonical source for the detection
-pattern.
+multiple sources. Each contribution remains subject to its applicable
+copyright and license. Wherever a detector specifies an upstream reference
+(a CVE ID, a vendor advisory, or a public POC URL) in its TOML manifest,
+that reference is the canonical source for the detection pattern.
 
 ================================================================================
 Kingfisher
